@@ -1,0 +1,114 @@
+[
+  {
+    "country": "USA",
+    "passportCountry": "INDIA",
+    "travelPurpose": "TOURISM",
+    "maxStayDays": 30,
+    "visaRequired": true,
+    "visaType": "TOURIST",
+    "documents": ["PASSPORT", "BANK_STATEMENT"],
+    "processingDays": 15
+  },
+
+  {
+    "country": "USA",
+    "passportCountry": "INDIA",
+    "travelPurpose": "TOURISM",
+    "maxStayDays": 30,
+    "visaRequired": true,
+    "visaType": "TOURIST",
+    "documents": ["PASSPORT", "BANK_STATEMENT"],
+    "processingDays": 15
+  },
+
+  {
+    "country": "USA",
+    "passportCountry": "INDIA",
+    "travelPurpose": "BUSINESS",
+    "maxStayDays": 20,
+    "visaRequired": true,
+    "visaType": "BUSINESS",
+    "documents": ["PASSPORT", "INVITATION_LETTER"],
+    "processingDays": 15
+  },
+  {
+    "country": "USA",
+    "passportCountry": "EUROPE",
+    "travelPurpose": "STUDY",
+    "maxStayDays": 180,
+    "visaRequired": true,
+    "visaType": "STUDENT",
+    "documents": ["PASSPORT", "ADMISSION_LETTER"],
+    "processingDays": 25
+  },
+  {
+    "country": "UAE",
+    "passportCountry": "INDIA",
+    "travelPurpose": "BUSINESS",
+    "maxStayDays": 14,
+    "visaRequired": true,
+    "visaType": "BUSINESS",
+    "documents": ["PASSPORT", "INVITATION_LETTER"],
+    "processingDays": 7
+  },
+  {
+    "country": "UAE",
+    "passportCountry": "EUROPE",
+    "travelPurpose": "TOURISM",
+    "maxStayDays": 30,
+    "visaRequired": false,
+    "visaType": "NONE",
+    "documents": ["PASSPORT"],
+    "processingDays": 0
+  },
+  {
+    "country": "UK",
+    "passportCountry": "INDIA",
+    "travelPurpose": "STUDY",
+    "maxStayDays": 365,
+    "visaRequired": true,
+    "visaType": "STUDENT",
+    "documents": ["PASSPORT", "ADMISSION_LETTER", "BANK_STATEMENT"],
+    "processingDays": 30
+  },
+  {
+    "country": "UK",
+    "passportCountry": "AUSTRALIA",
+    "travelPurpose": "TOURISM",
+    "maxStayDays": 60,
+    "visaRequired": false,
+    "visaType": "NONE",
+    "documents": ["PASSPORT"],
+    "processingDays": 0
+  },
+  {
+    "country": "AUSTRALIA",
+    "passportCountry": "INDIA",
+    "travelPurpose": "TOURISM",
+    "maxStayDays": 45,
+    "visaRequired": true,
+    "visaType": "TOURIST",
+    "documents": ["PASSPORT", "BANK_STATEMENT"],
+    "processingDays": 20
+  },
+  {
+    "country": "AUSTRALIA",
+    "passportCountry": "EUROPE",
+    "travelPurpose": "BUSINESS",
+    "maxStayDays": 30,
+    "visaRequired": true,
+    "visaType": "BUSINESS",
+    "documents": ["PASSPORT", "INVITATION_LETTER"],
+    "processingDays": 12
+  },
+  {
+    "country": "UAE",
+    "passportCountry": "AUSTRALIA",
+    "travelPurpose": "STUDY",
+    "maxStayDays": 90,
+    "visaRequired": true,
+    "visaType": "STUDENT",
+    "documents": ["PASSPORT", "ADMISSION_LETTER"],
+    "processingDays": 18
+  }
+]
