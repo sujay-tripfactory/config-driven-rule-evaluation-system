@@ -37,7 +37,7 @@ This project demonstrates a **config-based rule evaluation engine** using **Core
 - **Maven**
 - **Jackson Databind** (JSON parsing)
 - **Object-Oriented Design**
-- **Config-driven architecture**
+- **Config-driven-architecture**
 
 ---
 
